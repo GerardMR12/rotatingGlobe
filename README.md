@@ -1,4 +1,4 @@
-# rotatingGlobe
-Representation of Earth with a point, low satellite and its sensor's vision.
+# Rotating Earth's Globe
+Representation of Earth with a point representing a LEO satellite and its sensor's vision upon Earth's surface.
 
-![Alt Text](earth_rotation_576_50.gif)
+![Earth Rotation](earth_rotation_576_50.gif)
